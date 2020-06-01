@@ -14,8 +14,8 @@ footer: Your Website
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: discord
-    url: https://discord.gg/89DuWWp
+  - title: donate to keep us alive
+    url: https://www.paypal.me/twilexis
 
 # Build settings
 markdown: kramdown
